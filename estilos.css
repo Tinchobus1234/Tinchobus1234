@@ -2,6 +2,9 @@ body {
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
     margin: 0px;
 }
+h1, h2, h3, h4, h5, h6 {
+    padding: 10px;
+}
 .container {
     display: grid;
     grid-template-columns: 25% 50% 25%;
@@ -78,18 +81,19 @@ header p {
 }
 .header-image {
     width: 100%;
+    margin: 10px;
 }
 .perdida {
     color: orange;
 }
 .input-comment-big {
      height: 200px;   
-     width: 100%;
+     width: 90%;
 }
 .input-comment-medium {
     padding: 10px;
     height: 50px;
-    width: 100%;
+    width: 90%;
 }
 @media screen and (max-width: 768px) {
     
