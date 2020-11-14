@@ -107,7 +107,7 @@ header p {
         grid-template-areas: "contenido contenido contenido" "contenido contenido contenido" "contenido contenido contenido" "contenido contenido contenido" ;
     }
     .clusters-container {
-        gap: 14px;
+        gap: 7px;
     }
     .contenido p {
          padding: 10px;
